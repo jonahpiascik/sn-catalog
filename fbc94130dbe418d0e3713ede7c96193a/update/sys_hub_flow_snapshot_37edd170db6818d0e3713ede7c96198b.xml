@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Zoom License Request</description>
+        <internal_name>zoom_license_request</internal_name>
+        <label_cache>[{"name":"{{static.7eba14a1139cbb40fb9a3b27d144b03b}}","label":"Telehealth Support Team","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference"},{"name":"4ac30f0c-2996-4467-bd23-e07d62a5ae37.last_name","label":"6.1➛error_message","reference_display":"error_message","type":"string","base_type":"string"},{"name":"4ac30f0c-2996-4467-bd23-e07d62a5ae37.first_name","label":"6.1➛error_code","reference_display":"error_code","type":"string","base_type":"string"},{"name":"4ac30f0c-2996-4467-bd23-e07d62a5ae37.id","label":"6.1➛status_code","reference_display":"status_code","type":"string","base_type":"string"},{"name":"bc7ff47c-4acc-4271-b69d-1392b4d768e2.last_name","label":"5.1➛error_message","reference_display":"error_message","type":"string","base_type":"string"},{"name":"bc7ff47c-4acc-4271-b69d-1392b4d768e2.first_name","label":"5.1➛error_code","reference_display":"error_code","type":"string","base_type":"string"},{"name":"bc7ff47c-4acc-4271-b69d-1392b4d768e2.id","label":"5.1➛status_code","reference_display":"status_code","type":"string","base_type":"string"},{"name":"57da157d-69cf-42e2-931c-7973b19f98f8.last_name","label":"6.1➛error_message","reference_display":"error_message","type":"string","base_type":"string"},{"name":"57da157d-69cf-42e2-931c-7973b19f98f8.first_name","label":"6.1➛error_code","reference_display":"error_code","type":"string","base_type":"string"},{"name":"57da157d-69cf-42e2-931c-7973b19f98f8.id","label":"6.1➛status_code","reference_display":"status_code","type":"string","base_type":"string"},{"name":"e820caae-3063-4d55-829b-d345eb5df208.last_name","label":"5.1➛error_message","reference_display":"error_message","type":"string","base_type":"string"},{"name":"e820caae-3063-4d55-829b-d345eb5df208.first_name","label":"5.1➛error_code","reference_display":"error_code","type":"string","base_type":"string"},{"name":"e820caae-3063-4d55-829b-d345eb5df208.id","label":"5.1➛status_code","reference_display":"status_code","type":"string","base_type":"string"},{"name":"edbdf76f-afae-4cb9-b7bf-316729e5e754.error_message","label":"4➛error_message","reference_display":"error_message","type":"string","base_type":"string"},{"name":"edbdf76f-afae-4cb9-b7bf-316729e5e754.error_code","label":"4➛error_code","reference_display":"error_code","type":"string","base_type":"string"},{"name":"edbdf76f-afae-4cb9-b7bf-316729e5e754.status_code","label":"4➛status_code","reference_display":"status_code","type":"string","base_type":"string"},{"name":"edbdf76f-afae-4cb9-b7bf-316729e5e754.pmi","label":"4➛pmi","reference_display":"pmi","type":"string","base_type":"string"},{"name":"edbdf76f-afae-4cb9-b7bf-316729e5e754.type","label":"4➛type","reference_display":"type","type":"string","base_type":"string"},{"name":"edbdf76f-afae-4cb9-b7bf-316729e5e754.email","label":"4➛email","reference_display":"email","type":"string","base_type":"string"},{"name":"edbdf76f-afae-4cb9-b7bf-316729e5e754.last_name","label":"4➛last_name","reference_display":"last_name","type":"string","base_type":"string"},{"name":"edbdf76f-afae-4cb9-b7bf-316729e5e754.first_name","label":"4➛first_name","reference_display":"first_name","type":"string","base_type":"string"},{"name":"edbdf76f-afae-4cb9-b7bf-316729e5e754.id","label":"4➛id","reference_display":"id","type":"string","base_type":"string"},{"name":"ac2d62f1-450a-4d34-9740-e5bc01ba6975.approval_state","label":"2➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"Service Catalog_1.request_item","label":"Trigger➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference"},{"name":"5dca015c-f218-416b-b40e-9473c4536cb0.requested_for.email","label":"1➛requested_for➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"5dca015c-f218-416b-b40e-9473c4536cb0.requested_for.first_name","label":"1➛requested_for➛First name","reference":"","reference_display":"First name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"first_name"},{"name":"5dca015c-f218-416b-b40e-9473c4536cb0.requested_for.last_name","label":"1➛requested_for➛Last name","reference":"","reference_display":"Last name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"last_name"}]</label_cache>
+        <master>true</master>
+        <name>Zoom License Request</name>
+        <natlang/>
+        <outputs/>
+        <parent_flow display_value="Zoom License Request">60f98530dbe418d0e3713ede7c9619df</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>CCMC-03</sys_created_by>
+        <sys_created_on>2020-04-30 18:26:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>37edd170db6818d0e3713ede7c96198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Zoom License Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Service Catalog (CT Children's)" source="x_ncmc_service_cat">fbc94130dbe418d0e3713ede7c96193a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Catalog (CT Children's)">fbc94130dbe418d0e3713ede7c96193a</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_37edd170db6818d0e3713ede7c96198b</sys_update_name>
+        <sys_updated_by>CCMC-03</sys_updated_by>
+        <sys_updated_on>2020-04-30 18:26:51</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_variable_value action="delete_multiple" query="document_key=37edd170db6818d0e3713ede7c96198b"/>
+</record_update>

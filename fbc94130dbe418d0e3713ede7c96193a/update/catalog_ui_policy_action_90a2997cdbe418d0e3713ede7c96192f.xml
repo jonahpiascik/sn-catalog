@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:cca2997cdbe418d0e3713ede7c96190f</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>CCMC-03</sys_created_by>
+        <sys_created_on>2020-04-30 17:37:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>90a2997cdbe418d0e3713ede7c96192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>software_quantity</sys_name>
+        <sys_package display_value="Service Catalog (CT Children's)" source="x_ncmc_service_cat">fbc94130dbe418d0e3713ede7c96193a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Catalog (CT Children's)">fbc94130dbe418d0e3713ede7c96193a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_90a2997cdbe418d0e3713ede7c96192f</sys_update_name>
+        <sys_updated_by>CCMC-03</sys_updated_by>
+        <sys_updated_on>2020-04-30 17:37:27</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Mandatory Fields">d0a2997cdbe418d0e3713ede7c961918</ui_policy>
+        <variable>software_quantity</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>
